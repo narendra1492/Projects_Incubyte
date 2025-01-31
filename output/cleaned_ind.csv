@@ -1,0 +1,4 @@
+id,name,dob,vaccination_type,vaccination_date,payment_type,age,days_since_last_vaccination
+1,Vikas,,XYZ,2022-01-01,F,,
+2,Rahul,,ABC,2022-03-05,P,,
+3,Sameer,,ABC,2022-02-20,F,,

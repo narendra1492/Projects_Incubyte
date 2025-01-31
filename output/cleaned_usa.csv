@@ -1,0 +1,4 @@
+id,name,vaccination_type,vaccination_date,dob,age,days_since_last_vaccination
+1,Sam,EFG,1970-01-01 00:00:00.006152022,,,
+2,John,XYZ,1970-01-01 00:00:00.001052022,,,
+3,Mike,ABC,1970-01-01 00:00:00.012282021,,,
